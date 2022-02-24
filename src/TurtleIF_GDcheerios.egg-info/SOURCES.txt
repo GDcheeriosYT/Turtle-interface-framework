@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/TurtleIF_GDcheerios.egg-info/PKG-INFO
+src/TurtleIF_GDcheerios.egg-info/SOURCES.txt
+src/TurtleIF_GDcheerios.egg-info/dependency_links.txt
+src/TurtleIF_GDcheerios.egg-info/top_level.txt
